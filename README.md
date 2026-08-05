@@ -1,8 +1,8 @@
 ## Olá, eu sou Bruna Farias! 👋
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FECAP
-- 🎯 Buscando uma oportunidade de estágio na área de tecnologia
-- 💻 Atualmente me especializando em Front-End e Design pela Alura
+- 🎓 Análise e Desenvolvimento de Sistemas na FECAP
+- 🎯 Programadora Fullstack Júnior na ARTIFICIALL LTDA
+- 💻 Atualmente me especializando em Front-End e Back end pela Alura
 - 🌟 Apaixonada por criar interfaces funcionais e intuitivas!
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
