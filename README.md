@@ -1,10 +1,10 @@
 ## Olá, eu sou Bruna Farias! 👋
 
-🎓 Graduada em Análise e Desenvolvimento de Sistemas pela FECAP
-💻 Atualmente direcionando minha carreira para Segurança da Informação e Cybersecurity
-🔐 Estudando Cybersecurity, IAM, GRC, Cloud Security e Proteção de Dados
-💻 Conhecimentos em Java, C#/.NET, JavaScript, Node.js, React, SQL e Git
-🚀 Desenvolvendo projetos para fortalecer minha experiência prática em Tecnologia e Segurança da Informação
+-🎓 Graduada em Análise e Desenvolvimento de Sistemas pela FECAP
+-💻 Atualmente direcionando minha carreira para Segurança da Informação e Cybersecurity
+-🔐 Estudando Cybersecurity, IAM, GRC, Cloud Security e Proteção de Dados
+-💻 Conhecimentos em Java, C#/.NET, JavaScript, Node.js, React, SQL e Git
+-🚀 Desenvolvendo projetos para fortalecer minha experiência prática em Tecnologia e Segurança da Informação
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
